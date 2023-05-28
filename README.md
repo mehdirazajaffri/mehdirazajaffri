@@ -1,7 +1,7 @@
 <h1 align="center">Hi, there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Hope you have a lovely Day!</b><br><br>
     <i>
         I'm Mehdi Raza.<br>
         I'm a Full Stack Developer with expertise in AWS, Django, Python, and JavaScript.<br>
