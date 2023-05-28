@@ -1,12 +1,12 @@
 <h1 align="center">Hi, there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Hope you have a lovely Day!</b><br><br>
+    <b>Welcome to my page!</b><br><br>
     <i>
         I'm Mehdi Raza.<br>
         I'm a Full Stack Developer with expertise in AWS, Django, Python, and JavaScript.<br>
         I'm passionate about learning and leveraging new technologies to solve real-life problems.<br>
-        I enjoy guiding and mentoring others. Currently focusing on Web Development and honing my skills in Data Structures and Algorithms.<br>
+        I enjoy guiding and mentoring others. Currently focusing on Web Development and honing my skills in Data Structures and Algorithms. and trying to be consistent with leetcode :)<br>
         Open to collaborations and always eager to learn. Feel free to ask me anything!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/mehdirazajaffri">
