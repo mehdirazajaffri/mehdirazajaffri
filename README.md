@@ -9,7 +9,7 @@
         I enjoy guiding and mentoring others. Currently focusing on Web Development and honing my skills in Data Structures and Algorithms. and trying to be consistent with leetcode :)<br>
         Open to collaborations and always eager to learn. Feel free to ask me anything!<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/mehdirazajaffri">
+    <a href="https://www.linkedin.com/in/mehdi-raza-jaffri/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
